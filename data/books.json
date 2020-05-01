@@ -1,0 +1,1559 @@
+[
+  { "#": 1, "title": "Fundamentals of Power Electronics", "isbn": "b100747" },
+  { "#": 2, "title": "Handbook of the Life Course", "isbn": "b100507" },
+  { "#": 3, "title": "All of Statistics", "isbn": "978-0-387-21736-9" },
+  {
+    "#": 4,
+    "title": "Social Anxiety and Social Phobia in Youth",
+    "isbn": "b99417"
+  },
+  { "#": 5, "title": "Discrete Mathematics", "isbn": "b97469" },
+  { "#": 6, "title": "Developmental Neurobiology", "isbn": "0-387-28117-7" },
+  {
+    "#": 7,
+    "title": "Intuitive Probability and Random Processes using MATLAB\u00ae",
+    "isbn": "b104645"
+  },
+  {
+    "#": 8,
+    "title": "Handbook of Disaster Research",
+    "isbn": "978-0-387-32353-4"
+  },
+  {
+    "#": 9,
+    "title": "Handbook of the Sociology of Gender",
+    "isbn": "0-387-36218-5"
+  },
+  {
+    "#": 10,
+    "title": "Handbook of Sociological Theory",
+    "isbn": "0-387-36274-6"
+  },
+  { "#": 11, "title": "Clinical Neuroanatomy", "isbn": "978-0-387-36601-2" },
+  { "#": 12, "title": "Acquired Brain Injury", "isbn": "978-0-387-37575-5" },
+  { "#": 13, "title": "Numerical Optimization", "isbn": "978-0-387-40065-5" },
+  {
+    "#": 14,
+    "title": "Handbook of Biological Confocal Microscopy",
+    "isbn": "978-0-387-45524-2"
+  },
+  { "#": 15, "title": "Ceramic Materials", "isbn": "978-0-387-46271-4" },
+  {
+    "#": 16,
+    "title": "Principles of Fluorescence Spectroscopy",
+    "isbn": "978-0-387-46312-4"
+  },
+  {
+    "#": 17,
+    "title": "Fundamentals of Biomechanics",
+    "isbn": "978-0-387-49312-1"
+  },
+  {
+    "#": 18,
+    "title": "Primer on the Rheumatic Diseases",
+    "isbn": "978-0-387-68566-3"
+  },
+  {
+    "#": 19,
+    "title": "International Handbook of Historical Archaeology",
+    "isbn": "978-0-387-72071-5"
+  },
+  { "#": 20, "title": "Database Marketing", "isbn": "978-0-387-72579-6" },
+  { "#": 21, "title": "Composite Materials", "isbn": "978-0-387-74365-3" },
+  { "#": 22, "title": "Time Series Analysis", "isbn": "978-0-387-75959-3" },
+  {
+    "#": 23,
+    "title": "Transmission Electron Microscopy",
+    "isbn": "978-0-387-76501-3"
+  },
+  {
+    "#": 24,
+    "title": "Handbook of Quantitative Criminology",
+    "isbn": "978-0-387-77650-7"
+  },
+  {
+    "#": 25,
+    "title": "Plant Physiological Ecology",
+    "isbn": "978-0-387-78341-3"
+  },
+  {
+    "#": 26,
+    "title": "Introductory Statistics with R",
+    "isbn": "978-0-387-79054-1"
+  },
+  {
+    "#": 27,
+    "title": "The Elements of Statistical Learning",
+    "isbn": "978-0-387-84858-7"
+  },
+  {
+    "#": 28,
+    "title": "Psychology, Religion, and Spirituality",
+    "isbn": "978-0-387-87573-6"
+  },
+  {
+    "#": 29,
+    "title": "Introductory Time Series with R",
+    "isbn": "978-0-387-88698-5"
+  },
+  { "#": 30, "title": "Child Neuropsychology", "isbn": "978-0-387-88963-4" },
+  { "#": 31, "title": "A Beginner's Guide to R", "isbn": "978-0-387-93837-0" },
+  {
+    "#": 32,
+    "title": "Geomorphology of Desert Environments",
+    "isbn": "978-1-4020-5719-9"
+  },
+  { "#": 33, "title": "The Joy of Science", "isbn": "978-1-4020-6099-1" },
+  {
+    "#": 34,
+    "title": "Fatigue of Structures and Materials",
+    "isbn": "978-1-4020-6808-9"
+  },
+  { "#": 35, "title": "Essential Astrophysics", "isbn": "978-3-642-35963-7" },
+  {
+    "#": 36,
+    "title": "Introduction to Evolutionary Computing",
+    "isbn": "978-3-662-44874-8"
+  },
+  { "#": 37, "title": "Data Analysis", "isbn": "978-3-319-03762-2" },
+  {
+    "#": 38,
+    "title": "International Perspectives on Psychotherapy",
+    "isbn": "978-3-319-56194-3"
+  },
+  { "#": 39, "title": "Electrical Machines", "isbn": "978-1-4614-0400-2" },
+  {
+    "#": 40,
+    "title": "Mechanics and Thermodynamics",
+    "isbn": "978-3-319-27877-3"
+  },
+  {
+    "#": 41,
+    "title": "Applied Behavior Analysis",
+    "isbn": "978-3-319-44794-0"
+  },
+  {
+    "#": 42,
+    "title": "Reading, Writing, and Proving",
+    "isbn": "978-1-4419-9479-0"
+  },
+  {
+    "#": 43,
+    "title": "Linear and Nonlinear Programming",
+    "isbn": "978-3-319-18842-3"
+  },
+  {
+    "#": 44,
+    "title": "Introduction to Partial Differential Equations",
+    "isbn": "978-3-319-48936-0"
+  },
+  { "#": 45, "title": "Energy Storage", "isbn": "978-3-319-21239-5" },
+  {
+    "#": 46,
+    "title": "Metabolism of Human Diseases",
+    "isbn": "978-3-7091-0715-7"
+  },
+  {
+    "#": 47,
+    "title": "Sensory Evaluation of Food",
+    "isbn": "978-1-4419-6488-5"
+  },
+  {
+    "#": 48,
+    "title": "Fundamentals of Robotic Mechanical Systems",
+    "isbn": "978-3-319-01851-5"
+  },
+  {
+    "#": 49,
+    "title": "Integrative Human Biochemistry",
+    "isbn": "978-1-4939-3058-6"
+  },
+  {
+    "#": 50,
+    "title": "Philosophy of Science for Scientists",
+    "isbn": "978-3-319-26551-3"
+  },
+  { "#": 51, "title": "Particles and Nuclei", "isbn": "978-3-662-46321-5" },
+  {
+    "#": 52,
+    "title": "Data Structures and Algorithms with Python",
+    "isbn": "978-3-319-13072-9"
+  },
+  { "#": 53, "title": "LGBT-Parent Families", "isbn": "978-1-4614-4556-2" },
+  { "#": 54, "title": "Integrated Neuroscience", "isbn": "978-1-4615-1077-2" },
+  {
+    "#": 55,
+    "title": "Introduction to Partial Differential Equations",
+    "isbn": "978-3-319-02099-0"
+  },
+  { "#": 56, "title": "Microeconomics", "isbn": "978-3-642-37434-0" },
+  { "#": 57, "title": "System Dynamics", "isbn": "978-981-10-2045-2" },
+  {
+    "#": 58,
+    "title": "Cosmology for the Curious",
+    "isbn": "978-3-319-57040-2"
+  },
+  {
+    "#": 59,
+    "title": "Methods of Mathematical Modelling",
+    "isbn": "978-3-319-23042-9"
+  },
+  {
+    "#": 60,
+    "title": "Introduction to Logic Circuits & Logic Design with Verilog",
+    "isbn": "978-3-319-53883-9"
+  },
+  { "#": 61, "title": "Structural Analysis", "isbn": "978-90-481-2516-6" },
+  {
+    "#": 62,
+    "title": "Engineering Flow and Heat Exchange",
+    "isbn": "978-1-4899-7454-9"
+  },
+  {
+    "#": 63,
+    "title": "Enterprise Risk Management Models",
+    "isbn": "978-3-662-53785-5"
+  },
+  {
+    "#": 64,
+    "title": "Reactive Power Control in AC Power Systems",
+    "isbn": "978-3-319-51118-4"
+  },
+  {
+    "#": 65,
+    "title": "Principles of Microeconomics",
+    "isbn": "978-3-319-57589-6"
+  },
+  {
+    "#": 66,
+    "title": "Additive Manufacturing Technologies",
+    "isbn": "978-1-4419-1120-9"
+  },
+  { "#": 67, "title": "Principles of Physics", "isbn": "978-3-642-23026-4" },
+  {
+    "#": 68,
+    "title": "Fundamentals of Biomechanics",
+    "isbn": "978-3-319-44738-4"
+  },
+  {
+    "#": 69,
+    "title": "Irrigation and Drainage Engineering",
+    "isbn": "978-3-319-05699-9"
+  },
+  { "#": 70, "title": "LaTeX in 24 Hours", "isbn": "978-3-319-47831-9" },
+  { "#": 71, "title": "Psychology of Perception", "isbn": "978-3-319-31791-5" },
+  {
+    "#": 72,
+    "title": "Extragalactic Astronomy and Cosmology",
+    "isbn": "978-3-642-54083-7"
+  },
+  {
+    "#": 73,
+    "title": "Automata and Computability",
+    "isbn": "978-1-4612-1844-9"
+  },
+  {
+    "#": 74,
+    "title": "The Algorithm Design Manual",
+    "isbn": "978-1-84800-070-4"
+  },
+  { "#": 75, "title": "Chemical Thermodynamics", "isbn": "978-3-642-19864-9" },
+  { "#": 76, "title": "Computational Physics", "isbn": "978-3-319-61088-7" },
+  {
+    "#": 77,
+    "title": "Introduction to Statistics and Data Analysis ",
+    "isbn": "978-3-319-46162-5"
+  },
+  { "#": 78, "title": "Grammar for Teachers", "isbn": "978-3-319-33916-0" },
+  { "#": 79, "title": "Time Series Econometrics", "isbn": "978-3-319-32862-1" },
+  { "#": 80, "title": "Electrochemistry", "isbn": "978-3-642-30250-3" },
+  {
+    "#": 81,
+    "title": "Classical Fourier Analysis",
+    "isbn": "978-1-4939-1194-3"
+  },
+  { "#": 82, "title": "Human Chromosomes", "isbn": "978-1-4613-0139-4" },
+  { "#": 83, "title": "Phylogenomics", "isbn": "978-3-319-54064-1" },
+  {
+    "#": 84,
+    "title": "Quantum Theory for Mathematicians",
+    "isbn": "978-1-4614-7116-5"
+  },
+  {
+    "#": 85,
+    "title": "Evidence-Based Critical Care",
+    "isbn": "978-3-319-43341-7"
+  },
+  {
+    "#": 86,
+    "title": "Clinical Assessment of Child and Adolescent Personality and Behavior",
+    "isbn": "978-1-4419-0641-0"
+  },
+  {
+    "#": 87,
+    "title": "Design Research in Information Systems",
+    "isbn": "978-1-4419-5653-8"
+  },
+  {
+    "#": 88,
+    "title": "Intermediate Physics for Medicine and Biology",
+    "isbn": "978-3-319-12682-1"
+  },
+  {
+    "#": 89,
+    "title": "Principles of Data Mining",
+    "isbn": "978-1-4471-7307-6"
+  },
+  { "#": 90, "title": "Fundamental Astronomy", "isbn": "978-3-662-53045-0" },
+  {
+    "#": 91,
+    "title": "Fundamentals of Business Process Management",
+    "isbn": "978-3-642-33143-5"
+  },
+  {
+    "#": 92,
+    "title": "Brownian Motion, Martingales, and Stochastic Calculus ",
+    "isbn": "978-3-319-31089-3"
+  },
+  { "#": 93, "title": "UML @ Classroom", "isbn": "978-3-319-12742-2" },
+  {
+    "#": 94,
+    "title": "Design and Analysis of Experiments",
+    "isbn": "978-3-319-52250-0"
+  },
+  {
+    "#": 95,
+    "title": "Foundations for Designing User-Centered Systems",
+    "isbn": "978-1-4471-5134-0"
+  },
+  {
+    "#": 96,
+    "title": "Handbook of Consumer Finance Research",
+    "isbn": "978-3-319-28887-1"
+  },
+  {
+    "#": 97,
+    "title": "Principles of Terrestrial Ecosystem Ecology",
+    "isbn": "978-1-4419-9504-9"
+  },
+  {
+    "#": 98,
+    "title": "Applied Multivariate Statistical Analysis",
+    "isbn": "978-3-662-45171-7"
+  },
+  {
+    "#": 99,
+    "title": "Strategic International Management",
+    "isbn": "978-3-8349-6331-4"
+  },
+  { "#": 100, "title": "Computer Vision", "isbn": "978-1-84882-935-0" },
+  {
+    "#": 101,
+    "title": "Engineering Electromagnetics",
+    "isbn": "978-3-319-07806-9"
+  },
+  { "#": 102, "title": "Data Mining", "isbn": "978-3-319-14142-8" },
+  {
+    "#": 103,
+    "title": "International Trade Theory and Policy",
+    "isbn": "978-3-642-37314-5"
+  },
+  {
+    "#": 104,
+    "title": "Alternative Energy Sources",
+    "isbn": "978-3-642-20951-2"
+  },
+  {
+    "#": 105,
+    "title": "Introduction to Electronic Commerce and Social Commerce",
+    "isbn": "978-3-319-50091-1"
+  },
+  { "#": 106, "title": "Computational Geometry", "isbn": "978-3-540-77974-2" },
+  {
+    "#": 107,
+    "title": "Elementary Mechanics Using Python",
+    "isbn": "978-3-319-19596-4"
+  },
+  { "#": 108, "title": "Energy Economics", "isbn": "978-3-662-53022-1" },
+  { "#": 109, "title": "Biomedical Informatics", "isbn": "978-1-4471-4474-8" },
+  {
+    "#": 110,
+    "title": "Robotics, Vision and Control",
+    "isbn": "978-3-319-54413-7"
+  },
+  { "#": 111, "title": "Acid-Base Diagrams", "isbn": "978-3-642-37902-4" },
+  {
+    "#": 112,
+    "title": "Brewing Science: A Multidisciplinary Approach",
+    "isbn": "978-3-319-46394-0"
+  },
+  {
+    "#": 113,
+    "title": "Learning Landscape Ecology",
+    "isbn": "978-1-4939-6374-4"
+  },
+  { "#": 114, "title": "Probability", "isbn": "978-1-4612-4374-8" },
+  { "#": 115, "title": "Modeling Life", "isbn": "978-3-319-59731-7" },
+  {
+    "#": 116,
+    "title": "Introduction to Plasma Physics and Controlled Fusion",
+    "isbn": "978-3-319-22309-4"
+  },
+  { "#": 117, "title": "Engineering Mechanics 1", "isbn": "978-3-642-30319-7" },
+  {
+    "#": 118,
+    "title": "Business Statistics for Competitive Advantage with Excel 2016 ",
+    "isbn": "978-3-319-32185-1"
+  },
+  {
+    "#": 119,
+    "title": "Principles of Polymer Chemistry",
+    "isbn": "978-1-4614-2212-9"
+  },
+  {
+    "#": 120,
+    "title": "A Primer on Scientific Programming with Python",
+    "isbn": "978-3-662-49887-3"
+  },
+  {
+    "#": 121,
+    "title": "Climate Change Science: A Modern Synthesis",
+    "isbn": "978-94-007-5757-8"
+  },
+  {
+    "#": 122,
+    "title": "Solar PV and Wind Energy Conversion Systems",
+    "isbn": "978-3-319-14941-7"
+  },
+  {
+    "#": 123,
+    "title": "Statistical Analysis and Data Display",
+    "isbn": "978-1-4939-2122-5"
+  },
+  {
+    "#": 124,
+    "title": "Business Process Management Cases",
+    "isbn": "978-3-319-58307-5"
+  },
+  { "#": 125, "title": "Elementary Analysis", "isbn": "978-1-4614-6271-2" },
+  {
+    "#": 126,
+    "title": "Cryptography Made Simple",
+    "isbn": "978-3-319-21936-3"
+  },
+  { "#": 127, "title": "Fluid Dynamics", "isbn": "978-3-319-09351-2" },
+  { "#": 128, "title": "Social Media Management", "isbn": "978-3-319-21990-5" },
+  {
+    "#": 129,
+    "title": "Statistics in Criminal Justice",
+    "isbn": "978-1-4614-9170-5"
+  },
+  {
+    "#": 130,
+    "title": "Supply Chain Management and Advanced Planning",
+    "isbn": "978-3-642-55309-7"
+  },
+  { "#": 131, "title": "Probability Theory", "isbn": "978-1-4471-5201-9" },
+  {
+    "#": 132,
+    "title": "Statistics and Data Analysis for Financial Engineering",
+    "isbn": "978-1-4939-2614-5"
+  },
+  {
+    "#": 133,
+    "title": "Readings in Formal Epistemology",
+    "isbn": "978-3-319-20451-2"
+  },
+  {
+    "#": 134,
+    "title": "Differential Equations and Their Applications",
+    "isbn": "978-1-4612-4360-1"
+  },
+  {
+    "#": 135,
+    "title": "Nanotechnology: Principles and Practices",
+    "isbn": "978-3-319-09171-6"
+  },
+  {
+    "#": 136,
+    "title": "Epidemiological Research: Terms and Concepts",
+    "isbn": "978-94-007-1171-6"
+  },
+  {
+    "#": 137,
+    "title": "Multinational Management",
+    "isbn": "978-3-319-23012-2"
+  },
+  {
+    "#": 138,
+    "title": "Partial Differential Equations",
+    "isbn": "978-1-4614-4809-9"
+  },
+  {
+    "#": 139,
+    "title": "Bayesian and Frequentist Regression Methods",
+    "isbn": "978-1-4419-0925-1"
+  },
+  {
+    "#": 140,
+    "title": "Strategic International Management",
+    "isbn": "978-3-658-07884-3"
+  },
+  {
+    "#": 141,
+    "title": "Basic Concepts in Computational Physics",
+    "isbn": "978-3-319-27265-8"
+  },
+  {
+    "#": 142,
+    "title": "Eye Tracking Methodology",
+    "isbn": "978-3-319-57883-5"
+  },
+  { "#": 143, "title": "Writing for Publication", "isbn": "978-3-319-31650-5" },
+  { "#": 144, "title": "Mathematical Physics", "isbn": "978-3-319-01195-0" },
+  {
+    "#": 145,
+    "title": "Correctional Counseling and Treatment",
+    "isbn": "978-3-319-54349-9"
+  },
+  {
+    "#": 146,
+    "title": "Thermodynamics and Energy Conversion",
+    "isbn": "978-3-662-43715-5"
+  },
+  {
+    "#": 147,
+    "title": "The Action Research Planner",
+    "isbn": "978-981-4560-67-2"
+  },
+  {
+    "#": 148,
+    "title": "Stochastic Processes and Calculus",
+    "isbn": "978-3-319-23428-1"
+  },
+  {
+    "#": 149,
+    "title": "Statistical Analysis of Clinical Data on a Pocket Calculator",
+    "isbn": "978-94-007-1211-9"
+  },
+  {
+    "#": 150,
+    "title": "Clinical Data Analysis on a Pocket Calculator",
+    "isbn": "978-3-319-27104-0"
+  },
+  {
+    "#": 151,
+    "title": "The Data Science Design Manual",
+    "isbn": "978-3-319-55444-0"
+  },
+  {
+    "#": 152,
+    "title": "An Introduction to Machine Learning",
+    "isbn": "978-3-319-63913-0"
+  },
+  {
+    "#": 153,
+    "title": "Guide to Discrete Mathematics",
+    "isbn": "978-3-319-44561-8"
+  },
+  { "#": 154, "title": "Petroleum Geoscience", "isbn": "978-3-642-34132-8" },
+  {
+    "#": 155,
+    "title": "Structure Determination by X-ray Crystallography",
+    "isbn": "978-1-4614-3954-7"
+  },
+  {
+    "#": 156,
+    "title": "Introduction to Time Series and Forecasting",
+    "isbn": "978-3-319-29854-2"
+  },
+  {
+    "#": 157,
+    "title": "Principles of Mobile Communication",
+    "isbn": "978-3-319-55615-4"
+  },
+  {
+    "#": 158,
+    "title": "Cardiovascular Biomechanics",
+    "isbn": "978-3-319-46407-7"
+  },
+  {
+    "#": 159,
+    "title": "Introduction to Smooth Manifolds",
+    "isbn": "978-1-4419-9982-5"
+  },
+  {
+    "#": 160,
+    "title": "Taxation in European Union",
+    "isbn": "978-3-319-53919-5"
+  },
+  {
+    "#": 161,
+    "title": "Essentials of Cerebellum and Cerebellar Disorders",
+    "isbn": "978-3-319-24551-5"
+  },
+  {
+    "#": 162,
+    "title": "Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts",
+    "isbn": "978-981-10-1802-2"
+  },
+  {
+    "#": 163,
+    "title": "Multivariate Calculus and Geometry",
+    "isbn": "978-1-4471-6419-7"
+  },
+  {
+    "#": 164,
+    "title": "Statistics and Analysis of Scientific Data",
+    "isbn": "978-1-4939-6572-4"
+  },
+  {
+    "#": 165,
+    "title": "Modelling Computing Systems",
+    "isbn": "978-1-84800-322-4"
+  },
+  { "#": 166, "title": "Search Methodologies", "isbn": "978-1-4614-6940-7" },
+  { "#": 167, "title": "Representation Theory", "isbn": "978-1-4612-0979-9" },
+  {
+    "#": 168,
+    "title": "Linear Algebra Done Right",
+    "isbn": "978-3-319-11080-6"
+  },
+  {
+    "#": 169,
+    "title": "Stellar Structure and Evolution",
+    "isbn": "978-3-642-30304-3"
+  },
+  {
+    "#": 170,
+    "title": "Evolutionary Thinking in Medicine",
+    "isbn": "978-3-319-29716-3"
+  },
+  {
+    "#": 171,
+    "title": "Understanding Cryptography",
+    "isbn": "978-3-642-04101-3"
+  },
+  { "#": 172, "title": "Linear Algebra", "isbn": "978-3-319-24346-7" },
+  {},
+  { "#": 173, "title": "Algebra", "isbn": "978-1-4613-0041-0" },
+  { "#": 174, "title": "Understanding Analysis", "isbn": "978-1-4939-2712-8" },
+  { "#": 175, "title": "Plate Tectonics", "isbn": "978-3-540-76504-2" },
+  { "#": 176, "title": "Linear Programming", "isbn": "978-1-4614-7630-6" },
+  {
+    "#": 177,
+    "title": "The Nature of Scientific Knowledge",
+    "isbn": "978-3-319-33405-9"
+  },
+  { "#": 178, "title": "Leadership Today", "isbn": "978-3-319-31036-7" },
+  {
+    "#": 180,
+    "title": "Corporate Social Responsibility",
+    "isbn": "978-3-642-40975-2"
+  },
+  {
+    "#": 181,
+    "title": "Ordinary Differential Equations",
+    "isbn": "978-1-4614-3618-8"
+  },
+  { "#": 182, "title": "Electronic Commerce", "isbn": "978-3-319-10091-3" },
+  { "#": 183, "title": "Ceramic Materials", "isbn": "978-1-4614-3523-5" },
+  {
+    "#": 184,
+    "title": "Foundations of Analytical Chemistry",
+    "isbn": "978-3-319-62872-1"
+  },
+  { "#": 185, "title": "Life Cycle Assessment", "isbn": "978-3-319-56475-3" },
+  {
+    "#": 186,
+    "title": "A Clinical Guide to the Treatment of the Human Stress Response",
+    "isbn": "978-1-4614-5538-7"
+  },
+  { "#": 187, "title": "Computational Physics", "isbn": "978-3-319-00401-3" },
+  { "#": 188, "title": "Handbook of LGBT Elders", "isbn": "978-3-319-03623-6" },
+  {
+    "#": 189,
+    "title": "Handbook of Cardiac Anatomy, Physiology, and Devices",
+    "isbn": "978-3-319-19464-6"
+  },
+  { "#": 190, "title": "Quantum Mechanics", "isbn": "978-3-642-20556-9" },
+  {
+    "#": 191,
+    "title": "Understanding Statistics Using R",
+    "isbn": "978-1-4614-6227-9"
+  },
+  { "#": 192, "title": "Mass Spectrometry", "isbn": "978-3-319-54398-7" },
+  {
+    "#": 193,
+    "title": "Statistical Mechanics for Engineers",
+    "isbn": "978-3-319-13809-1"
+  },
+  {
+    "#": 194,
+    "title": "The Gastrointestinal System",
+    "isbn": "978-94-017-8771-0"
+  },
+  {
+    "#": 195,
+    "title": "Additive Manufacturing Technologies",
+    "isbn": "978-1-4939-2113-3"
+  },
+  {
+    "#": 196,
+    "title": "Magnetic Interactions in Molecules and Solids",
+    "isbn": "978-3-319-22951-5"
+  },
+  {
+    "#": 197,
+    "title": "Electricity and Magnetism",
+    "isbn": "978-4-431-54526-2"
+  },
+  { "#": 198, "title": "Survival Analysis", "isbn": "978-1-4419-6646-9" },
+  {
+    "#": 199,
+    "title": "Foundations of Quantum Mechanics",
+    "isbn": "978-3-319-65867-4"
+  },
+  {
+    "#": 200,
+    "title": "An Introduction to Statistical Learning",
+    "isbn": "978-1-4614-7138-7"
+  },
+  {
+    "#": 201,
+    "title": "Introduction to Mathematica\u00ae for Physicists",
+    "isbn": "978-3-319-00894-3"
+  },
+  {
+    "#": 202,
+    "title": "Statistical Learning from a Regression Perspective",
+    "isbn": "978-3-319-44048-4"
+  },
+  {
+    "#": 203,
+    "title": "Applied Partial Differential Equations",
+    "isbn": "978-3-319-12493-3"
+  },
+  {
+    "#": 204,
+    "title": "Principles of Astrophysics",
+    "isbn": "978-1-4614-9236-8"
+  },
+  {
+    "#": 205,
+    "title": "Air Pollution and Greenhouse Gases",
+    "isbn": "978-981-287-212-8"
+  },
+  {
+    "#": 206,
+    "title": "Polymer Synthesis: Theory and Practice",
+    "isbn": "978-3-642-28980-4"
+  },
+  {
+    "#": 207,
+    "title": "Sustainable Supply Chains",
+    "isbn": "978-3-319-29791-0"
+  },
+  { "#": 208, "title": "Robotics", "isbn": "978-1-84628-642-1" },
+  { "#": 209, "title": "Econometrics", "isbn": "978-3-642-20059-5" },
+  { "#": 210, "title": "The Sea Floor", "isbn": "978-3-319-51412-3" },
+  {
+    "#": 211,
+    "title": "SPSS for Starters and 2nd Levelers",
+    "isbn": "978-3-319-20600-4"
+  },
+  {
+    "#": 212,
+    "title": "Regression Modeling Strategies",
+    "isbn": "978-3-319-19425-7"
+  },
+  {
+    "#": 213,
+    "title": "Legal Dynamics of EU External Relations",
+    "isbn": "978-3-662-54817-2"
+  },
+  {
+    "#": 214,
+    "title": "Food Analysis Laboratory Manual",
+    "isbn": "978-3-319-44127-6"
+  },
+  {
+    "#": 215,
+    "title": "Principles of Musical Acoustics",
+    "isbn": "978-1-4614-6786-1"
+  },
+  {
+    "#": 216,
+    "title": "Fundamentals of Structural Engineering",
+    "isbn": "978-3-319-24331-3"
+  },
+  { "#": 217, "title": "Basics of Laser Physics", "isbn": "978-3-319-50651-7" },
+  {
+    "#": 218,
+    "title": "Applied Quantitative Finance",
+    "isbn": "978-3-662-54486-0"
+  },
+  {
+    "#": 219,
+    "title": "Handbook of Marriage and the Family",
+    "isbn": "978-1-4614-3987-5"
+  },
+  { "#": 220, "title": "Solid-State Physics", "isbn": "978-3-540-93804-0" },
+  {
+    "#": 221,
+    "title": "Electrochemical Impedance Spectroscopy and its Applications",
+    "isbn": "978-1-4614-8933-7"
+  },
+  {
+    "#": 222,
+    "title": "Economics as Applied Ethics",
+    "isbn": "978-3-319-50319-6"
+  },
+  {
+    "#": 223,
+    "title": "Electronics for Embedded Systems",
+    "isbn": "978-3-319-39439-8"
+  },
+  {
+    "#": 224,
+    "title": "Concise Guide to Software Engineering",
+    "isbn": "978-3-319-57750-0"
+  },
+  {
+    "#": 225,
+    "title": "Fundamentals of Multimedia",
+    "isbn": "978-3-319-05290-8"
+  },
+  { "#": 226, "title": "Logistics", "isbn": "978-3-319-01769-3" },
+  {
+    "#": 227,
+    "title": "Group Theory Applied to Chemistry",
+    "isbn": "978-94-007-6863-5"
+  },
+  {
+    "#": 228,
+    "title": "The Psychology of Social Status",
+    "isbn": "978-1-4939-0867-7"
+  },
+  {
+    "#": 229,
+    "title": "A Modern Introduction to Probability and Statistics",
+    "isbn": "1-84628-168-7"
+  },
+  { "#": 230, "title": "Complex Analysis", "isbn": "978-1-4419-7288-0" },
+  { "#": 231, "title": "Food Chemistry", "isbn": "978-3-540-69934-7" },
+  {
+    "#": 232,
+    "title": "Exam Survival Guide: Physical Chemistry",
+    "isbn": "978-3-319-49810-2"
+  },
+  { "#": 233, "title": "The Python Workbook", "isbn": "978-3-319-14240-1" },
+  {
+    "#": 234,
+    "title": "Practical Electrical Engineering",
+    "isbn": "978-3-319-21173-2"
+  },
+  {
+    "#": 235,
+    "title": "Strategic Retail Management",
+    "isbn": "978-3-658-10183-1"
+  },
+  { "#": 236, "title": "Food Analysis", "isbn": "978-3-319-45776-5" },
+  {
+    "#": 237,
+    "title": "Psychoeducational Assessment and Report Writing",
+    "isbn": "978-1-4939-1911-6"
+  },
+  {
+    "#": 238,
+    "title": "Machine Learning in Medicine - a Complete Overview",
+    "isbn": "978-3-319-15195-3"
+  },
+  {
+    "#": 239,
+    "title": "Evidence-Based Interventions for Children with Challenging Behavior",
+    "isbn": "978-1-4614-7807-2"
+  },
+  {
+    "#": 240,
+    "title": "Principles of Quantum Mechanics",
+    "isbn": "978-1-4757-0576-8"
+  },
+  { "#": 241, "title": "Recommender Systems", "isbn": "978-3-319-29659-3" },
+  {
+    "#": 242,
+    "title": "Pharmaceutical Biotechnology",
+    "isbn": "978-1-4614-6486-0"
+  },
+  {
+    "#": 243,
+    "title": "Python Programming Fundamentals",
+    "isbn": "978-1-4471-6642-9"
+  },
+  {
+    "#": 244,
+    "title": "The Finite Element Method and Applications in Engineering Using ANSYS\u00ae",
+    "isbn": "978-1-4899-7550-8"
+  },
+  { "#": 245, "title": "Group Theory", "isbn": "978-3-540-32899-5" },
+  {
+    "#": 246,
+    "title": "Object-Oriented Analysis, Design and Implementation",
+    "isbn": "978-3-319-24280-4"
+  },
+  {
+    "#": 247,
+    "title": "Introduction to Embedded Systems",
+    "isbn": "978-1-4614-3143-5"
+  },
+  {
+    "#": 248,
+    "title": "Elementary Mechanics Using Matlab",
+    "isbn": "978-3-319-19587-2"
+  },
+  {
+    "#": 249,
+    "title": "An Introduction to Biomechanics",
+    "isbn": "978-1-4939-2623-7"
+  },
+  {
+    "#": 250,
+    "title": "New Introduction to Multiple Time Series Analysis",
+    "isbn": "978-3-540-27752-1"
+  },
+  {
+    "#": 251,
+    "title": "Introduction to Data Science",
+    "isbn": "978-3-319-50017-1"
+  },
+  {
+    "#": 252,
+    "title": "Calculus With Applications",
+    "isbn": "978-1-4614-7946-8"
+  },
+  {
+    "#": 253,
+    "title": "An Introduction to Soil Mechanics",
+    "isbn": "978-3-319-61185-3"
+  },
+  { "#": 254, "title": "Game Theory", "isbn": "978-3-662-46950-7" },
+  {
+    "#": 255,
+    "title": "Fundamentals of Clinical Trials",
+    "isbn": "978-3-319-18539-2"
+  },
+  {
+    "#": 256,
+    "title": "The Finite Volume Method in Computational Fluid Dynamics",
+    "isbn": "978-3-319-16874-6"
+  },
+  {
+    "#": 257,
+    "title": "The ASCRS Textbook of Colon and Rectal Surgery",
+    "isbn": "978-3-319-25970-3"
+  },
+  {
+    "#": 258,
+    "title": "Applied Predictive Modeling",
+    "isbn": "978-1-4614-6849-3"
+  },
+  {
+    "#": 259,
+    "title": "Introduction to Logic Circuits & Logic Design with VHDL ",
+    "isbn": "978-3-319-34195-8"
+  },
+  { "#": 260, "title": "Sustainability Science", "isbn": "978-94-017-7242-6" },
+  {
+    "#": 261,
+    "title": "Physical Chemistry from a Different Angle",
+    "isbn": "978-3-319-15666-8"
+  },
+  {
+    "#": 262,
+    "title": "The Physics of Semiconductors",
+    "isbn": "978-3-319-23880-7"
+  },
+  {
+    "#": 263,
+    "title": "Energy Harvesting and Energy Efficiency",
+    "isbn": "978-3-319-49875-1"
+  },
+  { "#": 264, "title": "Python For ArcGIS", "isbn": "978-3-319-18398-5" },
+  {
+    "#": 265,
+    "title": "Statics and Mechanics of Structures",
+    "isbn": "978-94-007-6113-1"
+  },
+  { "#": 266, "title": "Real Analysis", "isbn": "978-1-4939-2766-1" },
+  {
+    "#": 267,
+    "title": "MATLAB for Psychologists",
+    "isbn": "978-1-4614-2197-9"
+  },
+  {
+    "#": 268,
+    "title": "Physical Asset Management",
+    "isbn": "978-3-319-14777-2"
+  },
+  {
+    "#": 269,
+    "title": "Essentials of Food Science",
+    "isbn": "978-1-4614-9138-5"
+  },
+  { "#": 270, "title": "Quantum Mechanics", "isbn": "978-1-4612-1272-0" },
+  { "#": 271, "title": "Probability Theory", "isbn": "978-1-4471-5361-0" },
+  {
+    "#": 272,
+    "title": "Concise Guide to Databases",
+    "isbn": "978-1-4471-5601-7"
+  },
+  {
+    "#": 273,
+    "title": "Digital Image Processing",
+    "isbn": "978-1-4471-6684-9"
+  },
+  {
+    "#": 274,
+    "title": "Chemical and Bioprocess Engineering",
+    "isbn": "978-1-4614-9126-2"
+  },
+  {
+    "#": 275,
+    "title": "Transmission Electron Microscopy",
+    "isbn": "978-1-4757-2519-3"
+  },
+  {
+    "#": 276,
+    "title": "Guide to Computer Network Security",
+    "isbn": "978-3-319-55606-2"
+  },
+  { "#": 277, "title": "Introduction to Law", "isbn": "978-3-319-57252-9" },
+  {
+    "#": 278,
+    "title": "Advanced Quantum Mechanics",
+    "isbn": "978-3-319-25675-7"
+  },
+  {
+    "#": 279,
+    "title": "Bayesian Essentials with R",
+    "isbn": "978-1-4614-8687-9"
+  },
+  {
+    "#": 280,
+    "title": "Robotics, Vision and Control",
+    "isbn": "978-3-642-20144-8"
+  },
+  { "#": 281, "title": "Applied Chemistry", "isbn": "978-1-4614-4262-2" },
+  {
+    "#": 282,
+    "title": "Advanced Organic Chemistry",
+    "isbn": "978-0-387-44899-2"
+  },
+  {
+    "#": 283,
+    "title": "Advanced Organic Chemistry",
+    "isbn": "978-0-387-71481-3"
+  },
+  {
+    "#": 284,
+    "title": "International Humanitarian Action",
+    "isbn": "978-3-319-14454-2"
+  },
+  { "#": 285, "title": "Breast Cancer", "isbn": "978-3-319-48848-6" },
+  {
+    "#": 286,
+    "title": "Travel Marketing, Tourism Economics and the Airline Product",
+    "isbn": "978-3-319-49849-2"
+  },
+  {
+    "#": 287,
+    "title": "Electronic Commerce 2018",
+    "isbn": "978-3-319-58715-8"
+  },
+  {
+    "#": 288,
+    "title": "Disability and Vocational Rehabilitation in Rural Settings",
+    "isbn": "978-3-319-64786-9"
+  },
+  {
+    "#": 289,
+    "title": "Teaching Medicine and Medical Ethics Using Popular Culture",
+    "isbn": "978-3-319-65451-5"
+  },
+  { "#": 290, "title": "Market Research", "isbn": "978-981-10-5218-7" },
+  {
+    "#": 291,
+    "title": "Scanning Electron Microscopy and X-Ray Microanalysis",
+    "isbn": "978-1-4939-6676-9"
+  },
+  {
+    "#": 292,
+    "title": "ArcGIS for Environmental and Water Issues",
+    "isbn": "978-3-319-61158-7"
+  },
+  { "#": 293, "title": "Physics from Symmetry", "isbn": "978-3-319-66631-0" },
+  {
+    "#": 294,
+    "title": "Communication and Bioethics at the End of Life",
+    "isbn": "978-3-319-70920-8"
+  },
+  {
+    "#": 295,
+    "title": "Foundations of Programming Languages",
+    "isbn": "978-3-319-70790-7"
+  },
+  {
+    "#": 296,
+    "title": "Problems in Classical Electromagnetism",
+    "isbn": "978-3-319-63133-2"
+  },
+  { "#": 297, "title": "Polymer Chemistry", "isbn": "978-3-662-49279-6" },
+  {
+    "#": 298,
+    "title": "Probability and Statistics for Computer Science",
+    "isbn": "978-3-319-64410-3"
+  },
+  {
+    "#": 299,
+    "title": "Empathetic Space on Screen",
+    "isbn": "978-3-319-66772-0"
+  },
+  { "#": 300, "title": "Political Social Work", "isbn": "978-3-319-68588-5" },
+  {
+    "#": 301,
+    "title": "Introductory Quantum Mechanics",
+    "isbn": "978-3-319-68598-4"
+  },
+  {
+    "#": 302,
+    "title": "Guide to Competitive Programming",
+    "isbn": "978-3-319-72547-5"
+  },
+  {
+    "#": 303,
+    "title": "Introduction to Artificial Intelligence",
+    "isbn": "978-3-319-58487-4"
+  },
+  {
+    "#": 304,
+    "title": "Bioinformatics for Evolutionary Biologists",
+    "isbn": "978-3-319-67395-0"
+  },
+  {
+    "#": 305,
+    "title": "Concepts, Methods and Practical Applications in Applied Demography",
+    "isbn": "978-3-319-65439-3"
+  },
+  {
+    "#": 306,
+    "title": "Introduction to Deep Learning",
+    "isbn": "978-3-319-73004-2"
+  },
+  {
+    "#": 307,
+    "title": "Energy and the Wealth of Nations",
+    "isbn": "978-3-319-66219-0"
+  },
+  {
+    "#": 308,
+    "title": "A Beginner's Guide to Scala, Object Orientation and Functional Programming",
+    "isbn": "978-3-319-75771-1"
+  },
+  {
+    "#": 309,
+    "title": "Lessons on Synthetic Bioarchitectures",
+    "isbn": "978-3-319-73123-0"
+  },
+  {
+    "#": 310,
+    "title": "Managing Sustainable Business",
+    "isbn": "978-94-024-1144-7"
+  },
+  { "#": 311, "title": "Engineering Mechanics 2", "isbn": "978-3-662-56272-7" },
+  {
+    "#": 312,
+    "title": "Fundamentals of Business Process Management",
+    "isbn": "978-3-662-56509-4"
+  },
+  {
+    "#": 313,
+    "title": "Clinical Methods in Medical Family Therapy",
+    "isbn": "978-3-319-68834-3"
+  },
+  {
+    "#": 314,
+    "title": "Guide to Scientific Computing in C++",
+    "isbn": "978-3-319-73132-2"
+  },
+  { "#": 315, "title": "Motivation and Action ", "isbn": "978-3-319-65094-4" },
+  {
+    "#": 316,
+    "title": "Perspectives on Elderly Crime and Victimization",
+    "isbn": "978-3-319-72682-3"
+  },
+  { "#": 317, "title": "Knowledge Management", "isbn": "978-3-319-59978-6" },
+  {
+    "#": 318,
+    "title": "An Introduction to Zooarchaeology",
+    "isbn": "978-3-319-65682-3"
+  },
+  { "#": 319, "title": "Abstract Algebra", "isbn": "978-3-319-77649-1" },
+  {
+    "#": 320,
+    "title": "Criminal Justice and Mental Health",
+    "isbn": "978-3-319-76442-9"
+  },
+  { "#": 321, "title": "Philosophy of Race", "isbn": "978-3-319-78729-9" },
+  {
+    "#": 322,
+    "title": "Of Cigarettes, High Heels, and Other Interesting Things",
+    "isbn": "978-1-349-95348-6"
+  },
+  { "#": 323, "title": "Applied Bioinformatics", "isbn": "978-3-319-68301-0" },
+  {
+    "#": 324,
+    "title": "Linear Algebra and Analytic Geometry for Physical Sciences",
+    "isbn": "978-3-319-78361-1"
+  },
+  {
+    "#": 325,
+    "title": "Building Energy Modeling with OpenStudio",
+    "isbn": "978-3-319-77809-9"
+  },
+  {
+    "#": 326,
+    "title": "Customer Relationship Management",
+    "isbn": "978-3-662-55381-7"
+  },
+  {
+    "#": 327,
+    "title": "The A-Z of the PhD Trajectory",
+    "isbn": "978-3-319-77425-1"
+  },
+  {
+    "#": 328,
+    "title": "Strategic Human Resource Management and Employment Relations",
+    "isbn": "978-981-13-0399-9"
+  },
+  { "#": 329, "title": "Applied Linear Algebra", "isbn": "978-3-319-91041-3" },
+  { "#": 330, "title": "Witnessing Torture", "isbn": "978-3-319-74965-5" },
+  { "#": 331, "title": "Proofs from THE BOOK", "isbn": "978-3-662-57265-8" },
+  {
+    "#": 332,
+    "title": "Introduction to General Relativity",
+    "isbn": "978-981-13-1090-4"
+  },
+  {
+    "#": 333,
+    "title": "Introduction to Particle and Astroparticle Physics",
+    "isbn": "978-3-319-78181-5"
+  },
+  {
+    "#": 334,
+    "title": "Fundamentals of Java Programming",
+    "isbn": "978-3-319-89491-1"
+  },
+  {
+    "#": 335,
+    "title": "Optimization of Process Flowsheets through Metaheuristic Techniques ",
+    "isbn": "978-3-319-91722-1"
+  },
+  { "#": 336, "title": "Robotics", "isbn": "978-3-319-72911-4" },
+  {
+    "#": 337,
+    "title": "Business Ethics - A Philosophical and Behavioral Approach",
+    "isbn": "978-3-319-91575-3"
+  },
+  {},
+  {
+    "#": 339,
+    "title": "Argumentation Theory: A Pragma-Dialectical Perspective",
+    "isbn": "978-3-319-95381-6"
+  },
+  {
+    "#": 340,
+    "title": "Logical Foundations of Cyber-Physical Systems",
+    "isbn": "978-3-319-63588-0"
+  },
+  {
+    "#": 341,
+    "title": "Off-Grid Electrical Systems in Developing Countries",
+    "isbn": "978-3-319-91890-7"
+  },
+  { "#": 342, "title": "Entertainment Science", "isbn": "978-3-319-89292-4" },
+  {
+    "#": 343,
+    "title": "Physics of Oscillations and Waves",
+    "isbn": "978-3-319-72314-3"
+  },
+  {
+    "#": 344,
+    "title": "Introduction to Programming with Fortran",
+    "isbn": "978-3-319-75502-1"
+  },
+  {
+    "#": 345,
+    "title": "Fundamentals of Solid State Engineering",
+    "isbn": "978-3-319-75708-7"
+  },
+  {
+    "#": 346,
+    "title": "Introduction to Digital Systems Design",
+    "isbn": "978-3-319-92804-3"
+  },
+  {
+    "#": 347,
+    "title": "Neural Networks and Deep Learning",
+    "isbn": "978-3-319-94463-0"
+  },
+  {
+    "#": 348,
+    "title": "Data Science and Predictive Analytics",
+    "isbn": "978-3-319-72347-1"
+  },
+  {
+    "#": 349,
+    "title": "Systems Programming in Unix/Linux",
+    "isbn": "978-3-319-92429-8"
+  },
+  {
+    "#": 350,
+    "title": "Analytical Corporate Finance",
+    "isbn": "978-3-319-95762-3"
+  },
+  { "#": 351, "title": "Fraud and Corruption", "isbn": "978-3-319-92333-8" },
+  {
+    "#": 352,
+    "title": "Conferencing and Presentation English for Young Academics",
+    "isbn": "978-981-13-2475-8"
+  },
+  {
+    "#": 353,
+    "title": "A Concise Guide to Market Research",
+    "isbn": "978-3-662-56707-4"
+  },
+  {
+    "#": 354,
+    "title": "Global Supply Chain and Operations Management",
+    "isbn": "978-3-319-94313-8"
+  },
+  {
+    "#": 355,
+    "title": "Introduction to Parallel Computing",
+    "isbn": "978-3-319-98833-7"
+  },
+  { "#": 356, "title": "Mathematical Logic", "isbn": "978-3-319-97298-5" },
+  {
+    "#": 357,
+    "title": "Stability and Control of Linear Systems",
+    "isbn": "978-3-030-02405-5"
+  },
+  {
+    "#": 358,
+    "title": "Introduction to Formal Philosophy",
+    "isbn": "978-3-319-77434-3"
+  },
+  {
+    "#": 359,
+    "title": "Analysis for Computer Scientists",
+    "isbn": "978-3-319-91155-7"
+  },
+  {
+    "#": 360,
+    "title": "International Business Management",
+    "isbn": "978-3-319-96622-9"
+  },
+  {
+    "#": 361,
+    "title": "Research Methods for the Digital Humanities",
+    "isbn": "978-3-319-96713-4"
+  },
+  {
+    "#": 362,
+    "title": "Introductory Computer Forensics",
+    "isbn": "978-3-030-00581-8"
+  },
+  { "#": 363, "title": "Control Engineering", "isbn": "978-981-10-8297-9" },
+  {
+    "#": 364,
+    "title": "Control Engineering: MATLAB Exercises",
+    "isbn": "978-981-10-8321-1"
+  },
+  {
+    "#": 365,
+    "title": "ENZYMES: Catalysis, Kinetics and Mechanisms",
+    "isbn": "978-981-13-0785-0"
+  },
+  {
+    "#": 366,
+    "title": "Automatic Control with Experiments",
+    "isbn": "978-3-319-75804-6"
+  },
+  {
+    "#": 367,
+    "title": "Internet of Things From Hype to Reality",
+    "isbn": "978-3-319-99516-8"
+  },
+  {
+    "#": 368,
+    "title": "Quantitative Methods for the Social Sciences",
+    "isbn": "978-3-319-99118-4"
+  },
+  {
+    "#": 369,
+    "title": "A Pythagorean Introduction to Number Theory",
+    "isbn": "978-3-030-02604-2"
+  },
+  {
+    "#": 370,
+    "title": "Philosophical and Mathematical Logic",
+    "isbn": "978-3-030-03255-5"
+  },
+  { "#": 371, "title": "Structural Dynamics", "isbn": "978-3-319-94743-3" },
+  {
+    "#": 372,
+    "title": "Plant Physiology, Development and Metabolism",
+    "isbn": "978-981-13-2023-1"
+  },
+  {
+    "#": 373,
+    "title": "Quantum Mechanics for Pedestrians 1",
+    "isbn": "978-3-030-00464-4"
+  },
+  { "#": 374, "title": "Plant Anatomy", "isbn": "978-3-319-77315-5" },
+  {
+    "#": 375,
+    "title": "Quantum Mechanics for Pedestrians 2",
+    "isbn": "978-3-030-00467-5"
+  },
+  { "#": 376, "title": "Excel Data Analysis", "isbn": "978-3-030-01279-3" },
+  {
+    "#": 377,
+    "title": "Quick Start Guide to VHDL",
+    "isbn": "978-3-030-04516-6"
+  },
+  { "#": 378, "title": "Java in Two Semesters", "isbn": "978-3-319-99420-8" },
+  {
+    "#": 379,
+    "title": "Managing Media and Digital Organizations",
+    "isbn": "978-3-319-71288-8"
+  },
+  {
+    "#": 380,
+    "title": "Media and Digital Management",
+    "isbn": "978-3-319-72000-5"
+  },
+  {
+    "#": 381,
+    "title": "An Anthology of London in Literature, 1558-1914",
+    "isbn": "978-3-030-05609-4"
+  },
+  { "#": 382, "title": "Astronautics", "isbn": "978-3-319-74373-8" },
+  { "#": 383, "title": "Perceptual Organization", "isbn": "978-3-319-96337-2" },
+  {
+    "#": 384,
+    "title": "Research Methods for Social Justice and Equity in Education",
+    "isbn": "978-3-030-05900-2"
+  },
+  { "#": 385, "title": "Educational Technology", "isbn": "978-981-13-6643-7" },
+  {
+    "#": 386,
+    "title": "Quick Start Guide to Verilog",
+    "isbn": "978-3-030-10552-5"
+  },
+  { "#": 387, "title": "Spine Surgery", "isbn": "978-3-319-98875-7" },
+  {
+    "#": 388,
+    "title": "Introduction to Logic Circuits & Logic Design with VHDL ",
+    "isbn": "978-3-030-12489-2"
+  },
+  {
+    "#": 389,
+    "title": "Social Justice Theory and Practice for Social Work",
+    "isbn": "978-981-13-3621-8"
+  },
+  {
+    "#": 390,
+    "title": "School Leadership and Educational Change in Singapore",
+    "isbn": "978-3-319-74746-0"
+  },
+  { "#": 391, "title": "Digital Business Models", "isbn": "978-3-030-13005-3" },
+  {
+    "#": 392,
+    "title": "Introduction to Logic Circuits & Logic Design with Verilog",
+    "isbn": "978-3-030-13605-5"
+  },
+  {
+    "#": 393,
+    "title": "Pharmaceutical Biotechnology",
+    "isbn": "978-3-030-00710-2"
+  },
+  {
+    "#": 394,
+    "title": "Mapping Global Theatre Histories",
+    "isbn": "978-3-030-12727-5"
+  },
+  {
+    "#": 395,
+    "title": "Social Marketing in Action",
+    "isbn": "978-3-030-13020-6"
+  },
+  {
+    "#": 396,
+    "title": "Analyzing Qualitative Data with MAXQDA",
+    "isbn": "978-3-030-15671-8"
+  },
+  {
+    "#": 397,
+    "title": "Handbook of Evolutionary Research in Archaeology",
+    "isbn": "978-3-030-11117-5"
+  },
+  {
+    "#": 398,
+    "title": "Evidence-Based Practice in Clinical Social Work",
+    "isbn": "978-3-030-15224-6"
+  },
+  {},
+  {
+    "#": 399,
+    "title": "Foundations of Behavioral Health",
+    "isbn": "978-3-030-18435-3"
+  },
+  {
+    "#": 400,
+    "title": "Social Psychology in Action",
+    "isbn": "978-3-030-13788-5"
+  },
+  {
+    "#": 401,
+    "title": "Essentials of Business Analytics",
+    "isbn": "978-3-319-68837-4"
+  },
+  {
+    "#": 402,
+    "title": "A Course in Rasch Measurement Theory",
+    "isbn": "978-981-13-7496-8"
+  },
+  {
+    "#": 403,
+    "title": "Multimedia Big Data Computing for IoT Applications",
+    "isbn": "978-981-13-8759-3"
+  },
+  {
+    "#": 404,
+    "title": "Policing and Minority Communities",
+    "isbn": "978-3-030-19182-5"
+  },
+  {
+    "#": 405,
+    "title": "A Beginners Guide to Python 3 Programming",
+    "isbn": "978-3-030-20290-3"
+  },
+  {
+    "#": 406,
+    "title": "Advanced Guide to Python 3 Programming",
+    "isbn": "978-3-030-25943-3"
+  },
+  { "#": 407, "title": "Literature and Medicine", "isbn": "978-3-030-19128-3" },
+  { "#": 408, "title": "Food Fraud Prevention", "isbn": "978-1-4939-9621-6" }
+]
