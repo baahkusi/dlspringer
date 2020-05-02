@@ -9,5 +9,6 @@ Usage
   - python3 springer.py
 
 - Make sure data directory exists
-  - If data directory does not exist run the following.
-  - python3 extract.py
+  - You can edit books.json in the data directory to only books you want to donwload.
+
+- A books folder would be created with the downloaded books
