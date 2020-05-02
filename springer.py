@@ -32,7 +32,7 @@ def main():
             print(f'Download failed. Error - {repr(e)}')
             continue
 
-        with open(f'books/{row["title"]}.pdf', 'wb') as book:
+        with open(f'books/{row["title"].replace("/","")}.pdf', 'wb') as book:
             book.write(content)
 
         end = time.time()
