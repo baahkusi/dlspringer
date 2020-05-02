@@ -47,7 +47,7 @@ def main():
 
         print(f'Download took {duration} seconds. Size downloaded {len(content)/1000000} MB ...')
 
-    duration = (all_start - time.time())//60
+    duration = (time.time() - all_start)//60
 
     print(f'Download of {total/1000000000} GB completed, took {duration} minutes ...')
 

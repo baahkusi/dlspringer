@@ -12,3 +12,5 @@ Usage
   - You can edit books.json in the data directory to only books you want to donwload.
 
 - A books folder would be created with the downloaded books
+
+- Everything downloaded is about 5 GB.
