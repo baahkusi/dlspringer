@@ -22,7 +22,7 @@ def main():
 
         dlink = f'https://link.springer.com/content/pdf/10.1007/{row["isbn"]}.pdf'
 
-        print(f'Downloading book {r+s}/{l} with title, {row["title"]}, from {dlink} ...')
+        print(f'Downloading book {r+s+1}/{l} with title, {row["title"]}, from {dlink} ...')
 
         start = time.time()
 
