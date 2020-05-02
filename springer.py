@@ -6,7 +6,7 @@ import json
 
 def main():
 
-    with open('data/books.json', 'r') as data:
+    with open('books.json', 'r') as data:
         table = json.load(data)
 
     try:
@@ -16,11 +16,13 @@ def main():
 
     l = len(table)
 
-    for r, row in enumerate(table):
+    s = len(os.listdir('books'))
+
+    for r, row in enumerate(table[s:]):
 
         dlink = f'https://link.springer.com/content/pdf/10.1007/{row["isbn"]}.pdf'
 
-        print(f'Downloading book {r}/{l} with title, {row["title"]}, from {dlink} ...')
+        print(f'Downloading book {r+s}/{l} with title, {row["title"]}, from {dlink} ...')
 
         start = time.time()
 

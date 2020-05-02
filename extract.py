@@ -1,4 +1,3 @@
-import os
 import json
 import PyPDF2
 import requests
@@ -28,12 +27,7 @@ def main():
 
         start_row += len(rows)
 
-    try:
-        os.mkdir('data')
-    except Exception:
-        pass
-
-    with open('data/books.json', 'w') as dfile:
+    with open('books.json', 'w') as dfile:
         json.dump(table, dfile)
 
 
